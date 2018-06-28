@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../gakataka/Student/recv/childrenshop0528/.idea/childrenshop.iml" filepath="$PROJECT_DIR$/../gakataka/Student/recv/childrenshop0528/.idea/childrenshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gakataka/Student/recv/childrenshop/.idea/childrenshop.iml" filepath="$PROJECT_DIR$/../gakataka/Student/recv/childrenshop/.idea/childrenshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/django1.iml" filepath="$PROJECT_DIR$/.idea/django1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gakataka/Student/recv/django_pro/.idea/django_pro.iml" filepath="$PROJECT_DIR$/../gakataka/Student/recv/django_pro/.idea/django_pro.iml" />
+      <module fileurl="file://E:/学习/学习/python/study/.idea/study.iml" filepath="E:/学习/学习/python/study/.idea/study.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,46 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.nav{
+    background-color:#eee;
+    border-bottom: 1px solid #ccc;
+    padding:10px 5px;
+}
+.nav a{
+    text-decoration:none;
+    color: #000;
+    padding:5px 10px;
+}
+.nav .logo{
+    display:inline-block;
+    font-size:120%;
+}
+.navbar-default{
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #fff !important;
+    border-color: #fff !important;
+}
+#logo{
+    margin: 0 auto;
+    display: table-cell;
+}
+.navbar-nav{
+    background-color: #fff !important;
+    border-color: #fff !important;
+}
+.panel-body ul{
+    list-style-type:none;
+}
+.play{
+	width: 200px;
+	height: 66px;
+	margin: 0 auto;
+	position: fixed;
+	top: 85%;
+	left: 0px;
+}
+#aplayer{
+	width: 199px;
+}
